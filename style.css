@@ -101,3 +101,10 @@ footer {
       font-size: 0.9rem;
       color: silver;
 }
+@media (max-width: 599px) {
+  html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: auto;
+  }
