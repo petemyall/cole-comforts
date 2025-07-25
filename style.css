@@ -108,3 +108,11 @@ footer {
   height: 100vh;
   overflow: auto;
   }
+
+  h1 {
+  font-size: 2.9rem;
+  }
+  .site-logo {
+  width: 60px;
+  height: 60px;
+  }
