@@ -108,6 +108,10 @@ footer {
   height: 100vh;
   overflow: auto;
   }
+  .teamsheet {
+  max-width: 800px;
+  margin: 20px;
+  }
 
   h1 {
   font-size: 1.5rem;
