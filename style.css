@@ -112,6 +112,11 @@ footer {
    width: 95%;
    margin: 20px;
   }
+  .player {
+  width: 20vw;
+  padding: 5px;
+  font-size: 7.5px;
+  }
 
   h1 {
   font-size: 1.5rem;
