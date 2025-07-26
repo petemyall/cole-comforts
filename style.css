@@ -1,4 +1,4 @@
-body {
+8body {
   height: 100vh;
   background-color: rgba(3, 70, 148,0.3);
   background-image: url('images/home-background.jpg');
@@ -104,6 +104,7 @@ footer {
 }
 @media (max-width: 599px) {
   html, body {
+  background-size: contain;
   margin: 0;
   padding: 0;
   height: 100vh;
