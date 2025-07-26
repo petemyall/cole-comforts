@@ -1,4 +1,4 @@
-ibody {
+3ibody {
   height: 100vh;
   background-color: rgba(3, 70, 148,0.3);
   background-image: url('images/home-background.jpg');
@@ -148,5 +148,6 @@ footer {
   }
 footer {
       position: relative;
+}
 }
 
