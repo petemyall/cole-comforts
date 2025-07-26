@@ -115,7 +115,7 @@ footer {
   . header-bar {
     width: 95%;
   }
-  .player {
+  /* .player { */
   width: 19vw;
   padding: 5px;
   font-size: 7.5px;
@@ -129,3 +129,21 @@ footer {
   height: 60px;
   }
 }
+  .player {
+    font-size: 1.1rem;
+    padding: 12px 8px;
+    min-width: 90px;
+    flex: 1 1 100px;
+    text-align: center;
+  }
+
+  .row {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  .teamsheet {
+    padding: 10px;
+  }
+
