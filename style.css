@@ -106,12 +106,15 @@ footer {
   html, body {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 95vh;
   overflow: auto;
   }
   .teamsheet {
    width: 95%;
    margin: 20px 4px 5px 4px;
+  }
+  . header-bar {
+    width: 95%;
   }
   .player {
   width: 19vw;
