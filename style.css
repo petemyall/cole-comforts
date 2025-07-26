@@ -107,7 +107,7 @@ footer {
   margin: 0;
   padding: 0;
   height: 95vh;
-  overflow: auto;
+  overflow: hidden;
   }
   .teamsheet {
    width: 95%;
