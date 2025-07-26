@@ -140,5 +140,8 @@ footer {
   .teamsheet {
     padding: 10px;
   }
+  footer {
+      position: static;
+  }
 }
 
