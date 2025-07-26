@@ -111,7 +111,7 @@ footer {
   }
   .teamsheet {
    width: 95%;
-   margin: 20px;
+   margin: 20px 5px 5px 5px;
   }
   .player {
   width: 20vw;
