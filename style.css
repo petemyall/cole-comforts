@@ -142,6 +142,7 @@ footer {
   }
   footer {
       position: static;
+    margin-top: 10px;
   }
 }
 
