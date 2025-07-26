@@ -127,7 +127,7 @@ footer {
   .player {
     font-size: 1.1rem;
     padding: 12px 8px;
-    min-width: 90px;
+    max-width: 40px;
     flex: 1 1 100px;
     text-align: center;
   }
